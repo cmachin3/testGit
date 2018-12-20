@@ -20,7 +20,8 @@ using namespace std;
  */
 int main(int argc, char** argv) {
 
-    cout<<"Bonjour" ;
+    cout<<"Bonjour"<<endl ;
+    cout<<"Salut";
     return 0;
 }
 
